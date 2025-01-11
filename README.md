@@ -1,0 +1,3 @@
+# React Native FlatList: `renderItem` Returns `undefined`/`null`
+
+This repository demonstrates a common issue in React Native's `FlatList` component where the `renderItem` function incorrectly returns `undefined` or `null`, resulting in a blank list or unexpected rendering behavior.  The solution involves carefully reviewing the `renderItem` logic to ensure it always returns a valid React component.
